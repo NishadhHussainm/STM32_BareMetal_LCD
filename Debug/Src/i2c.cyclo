@@ -1,0 +1,7 @@
+../Src/i2c.c:43:6:I2C1_Init	1
+../Src/i2c.c:62:6:I2C1_Start	3
+../Src/i2c.c:71:6:I2C1_WriteByte	2
+../Src/i2c.c:76:9:I2C1_ReadByte	3
+../Src/i2c.c:87:6:I2C1_Stop	1
+../Src/i2c.c:92:6:EEPROM_Write	2
+../Src/i2c.c:100:9:EEPROM_Read	1
