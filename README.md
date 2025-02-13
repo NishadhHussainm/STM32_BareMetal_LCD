@@ -75,5 +75,5 @@ STM32_BareMetal_LCD/
 
 
 ## Author
-[Nishadh Hussain M]
+Nishadh Hussain M
 
